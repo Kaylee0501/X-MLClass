@@ -9,6 +9,10 @@ from alldatasets import aapd_labels_2_combined, reuters_labels_2_combined, rcv1_
 from alldatasets import aapd_lda, reuters_lda, rcv1_lda, amazon_lda, dbpedia_lda, aapd_127_lda
 from alldatasets import aapd_lda_2, reuters_lda_2, rcv1_lda_2, amazon_lda_2, dbpedia_lda_2, aapd_127_lda_2
 
+#nmf
+from alldatasets import aapd_nmf, reuters_nmf, rcv1_nmf, amazon_nmf, dbpedia_nmf, aapd_127_nmf
+from alldatasets import aapd_nmf_2, reuters_nmf_2, rcv1_nmf_2, amazon_nmf_2, dbpedia_nmf_2, aapd_127_nmf_2
+
 
 from sentence_transformers import SentenceTransformer, util
 
