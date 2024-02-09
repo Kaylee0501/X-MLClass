@@ -5,6 +5,10 @@ from alldatasets import aapd_labels, amazon_labels, dbpedia_labels, rcv1_labels,
 from alldatasets import aapd_llama, amazon_llama, dbpedia_llama, rcv1_llama, reuters_llama
 from alldatasets import aapd_labels_2_combined, reuters_labels_2_combined, rcv1_labels_2_combined, amazon_labels_2_combined, dbpedia_labels_2_combined
 
+#lda
+from alldatasets import aapd_lda, reuters_lda, rcv1_lda, amazon_lda, dbpedia_lda, aapd_127_lda
+from alldatasets import aapd_lda_2, reuters_lda_2, rcv1_lda_2, amazon_lda_2, dbpedia_lda_2, aapd_127_lda_2
+
 
 from sentence_transformers import SentenceTransformer, util
 
