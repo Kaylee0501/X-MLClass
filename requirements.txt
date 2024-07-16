@@ -20,7 +20,7 @@ pytextrank==3.3.0
 PyYAML==6.0.1
 safetensors==0.4.3
 sentence_transformers==2.2.2
-setuptools==68.0.0
+setuptools==70.0.0
 top2vec==1.0.34
 torch==2.1.1
 tqdm==4.66.1
